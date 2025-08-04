@@ -1,0 +1,9 @@
+<Configuration ID="e74de786-7f42-4360-9d84-2473b3aa7f53">
+  <Add OfficeClientEdition="64" Channel="Current">
+    <Product ID="AccessRuntimeRetail">
+      <Language ID="en-us" />
+    </Product>
+  </Add>
+  <Updates Enabled="FALSE" />
+  <Display Level="None" AcceptEULA="TRUE" />
+</Configuration>

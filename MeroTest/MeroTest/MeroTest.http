@@ -1,0 +1,6 @@
+@MeroTest_HostAddress = http://localhost:5177
+
+GET {{MeroTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

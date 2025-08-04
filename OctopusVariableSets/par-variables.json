@@ -1,0 +1,1795 @@
+{
+  "Id": "variableset-Projects-85",
+  "OwnerId": "Projects-85",
+  "Version": 24,
+  "Variables": [
+    {
+      "Id": "561182c4-81df-7f30-ec6a-1ed7b416c08c",
+      "Name": "Site",
+      "Value": "par-dev.world.fluidtechnology.net",
+      "Description": null,
+      "Scope": {
+        "Environment": [
+          "Environments-41"
+        ],
+        "Role": [
+          "appsb"
+        ]
+      },
+      "IsEditable": true,
+      "Prompt": null,
+      "Type": "String",
+      "IsSensitive": false
+    },
+    {
+      "Id": "79c38975-3148-bb12-7565-18bdda350a41",
+      "Name": "Site",
+      "Value": "par-test.world.fluidtechnology.net",
+      "Description": "",
+      "Scope": {
+        "Environment": [
+          "Environments-6"
+        ],
+        "Role": [
+          "appsb"
+        ]
+      },
+      "IsEditable": true,
+      "Prompt": null,
+      "Type": "String",
+      "IsSensitive": false
+    },
+    {
+      "Id": "4c8252be-cfad-78f9-e3d7-b19002884e0c",
+      "Name": "Site",
+      "Value": "par-uat.world.fluidtechnology.net",
+      "Description": "",
+      "Scope": {
+        "Environment": [
+          "Environments-8"
+        ],
+        "Role": [
+          "appsb"
+        ]
+      },
+      "IsEditable": true,
+      "Prompt": null,
+      "Type": "String",
+      "IsSensitive": false
+    },
+    {
+      "Id": "6cc14c86-36e2-0cb8-00fe-51b23dd48ec0",
+      "Name": "Site",
+      "Value": "par.world.fluidtechnology.net",
+      "Description": "",
+      "Scope": {
+        "Environment": [
+          "Environments-7"
+        ],
+        "Role": [
+          "appsb"
+        ]
+      },
+      "IsEditable": true,
+      "Prompt": null,
+      "Type": "String",
+      "IsSensitive": false
+    },
+    {
+      "Id": "cf1f80a8-89c8-07f4-a118-c0244b6adc83",
+      "Name": "SiteDir",
+      "Value": "D:\\inetpub\\wwwroot\\par-dev.world.fluidtechnology.net",
+      "Description": null,
+      "Scope": {
+        "Environment": [
+          "Environments-41"
+        ],
+        "Role": [
+          "appsb"
+        ]
+      },
+      "IsEditable": true,
+      "Prompt": null,
+      "Type": "String",
+      "IsSensitive": false
+    },
+    {
+      "Id": "6c4039e8-4796-e2b1-7858-3a16742f6afa",
+      "Name": "SiteDir",
+      "Value": "D:\\inetpub\\wwwroot\\par-test.world.fluidtechnology.net",
+      "Description": "",
+      "Scope": {
+        "Environment": [
+          "Environments-6"
+        ],
+        "Role": [
+          "appsb"
+        ]
+      },
+      "IsEditable": true,
+      "Prompt": null,
+      "Type": "String",
+      "IsSensitive": false
+    },
+    {
+      "Id": "b0af92d3-a00c-5b1c-d359-f7ba8f423025",
+      "Name": "SiteDir",
+      "Value": "D:\\inetpub\\wwwroot\\par-uat.world.fluidtechnology.net",
+      "Description": "",
+      "Scope": {
+        "Environment": [
+          "Environments-8"
+        ],
+        "Role": [
+          "appsb"
+        ]
+      },
+      "IsEditable": true,
+      "Prompt": null,
+      "Type": "String",
+      "IsSensitive": false
+    },
+    {
+      "Id": "63df9da0-30b7-64d5-8990-f96d98339e5a",
+      "Name": "SiteDir",
+      "Value": "D:\\inetpub\\wwwroot\\par.world.fluidtechnology.net",
+      "Description": "",
+      "Scope": {
+        "Environment": [
+          "Environments-7"
+        ],
+        "Role": [
+          "appsb"
+        ]
+      },
+      "IsEditable": true,
+      "Prompt": null,
+      "Type": "String",
+      "IsSensitive": false
+    },
+    {
+      "Id": "83246bb7-37f7-fde1-4f6c-82297b73dc60",
+      "Name": "FromEmailAddress",
+      "Value": "par.website@fluidtechnology.com",
+      "Description": "",
+      "Scope": {
+        "Environment": [
+          "Environments-7"
+        ],
+        "Role": [
+          "appsb"
+        ]
+      },
+      "IsEditable": true,
+      "Prompt": null,
+      "Type": "String",
+      "IsSensitive": false
+    },
+    {
+      "Id": "8462c501-0078-40cf-5517-a1ee1f3ab3c9",
+      "Name": "FromEmailAddress",
+      "Value": "test_par.website@fluidtechnology.com",
+      "Description": "",
+      "Scope": {
+        "Environment": [
+          "Environments-8"
+        ],
+        "Role": [
+          "appsb"
+        ]
+      },
+      "IsEditable": true,
+      "Prompt": null,
+      "Type": "String",
+      "IsSensitive": false
+    },
+    {
+      "Id": "99535eb9-850c-b988-e726-b26ba7f14827",
+      "Name": "FromEmailAddress",
+      "Value": "test_par.website@fluidtechnology.com",
+      "Description": "",
+      "Scope": {
+        "Environment": [
+          "Environments-6"
+        ],
+        "Role": [
+          "appsb"
+        ]
+      },
+      "IsEditable": true,
+      "Prompt": null,
+      "Type": "String",
+      "IsSensitive": false
+    },
+    {
+      "Id": "af6322c2-9fbb-b6b8-7cdb-13ee4c037cb3",
+      "Name": "FromEmailAddress",
+      "Value": "test_par.website@fluidtechnology.com",
+      "Description": null,
+      "Scope": {
+        "Environment": [
+          "Environments-41"
+        ],
+        "Role": [
+          "appsb"
+        ]
+      },
+      "IsEditable": true,
+      "Prompt": null,
+      "Type": "String",
+      "IsSensitive": false
+    },
+    {
+      "Id": "c14d0099-2bc6-8d56-d660-aa870ec38a43",
+      "Name": "localhost",
+      "Value": "Data Source=SEEMM1DB261.world.fluidtechnology.net;Initial Catalog=par;User Id=par_www;Password=wrU-tAnudrEs",
+      "Description": "",
+      "Scope": {
+        "Environment": [
+          "Environments-7"
+        ],
+        "Role": [
+          "appsb"
+        ]
+      },
+      "IsEditable": true,
+      "Prompt": null,
+      "Type": "String",
+      "IsSensitive": false
+    },
+    {
+      "Id": "46a929cd-5da6-f8cb-8f13-042b1a3a83f9",
+      "Name": "PAR_DB",
+      "Value": "Data Source=SEEMM1DB261.world.fluidtechnology.net;Initial Catalog=par;User Id=par_www;Password=wrU-tAnudrEs",
+      "Description": "",
+      "Scope": {
+        "Environment": [
+          "Environments-7"
+        ],
+        "Role": [
+          "appsb"
+        ]
+      },
+      "IsEditable": true,
+      "Prompt": null,
+      "Type": "String",
+      "IsSensitive": false
+    },
+    {
+      "Id": "99741399-2e56-ffca-5778-bbc5082011a1",
+      "Name": "localhost",
+      "Value": "Data Source=SEEMM1DB260.world.fluidtechnology.net;Initial Catalog=par;User Id=par_www;Password=wrU-tAnudrEs",
+      "Description": "",
+      "Scope": {
+        "Environment": [
+          "Environments-8"
+        ],
+        "Role": [
+          "appsb"
+        ]
+      },
+      "IsEditable": true,
+      "Prompt": null,
+      "Type": "String",
+      "IsSensitive": false
+    },
+    {
+      "Id": "c6b2ca48-43bd-878a-5337-b4404bad7a39",
+      "Name": "par.fluidtechnology.com",
+      "Value": "Data Source=SEEMM1DB261.world.fluidtechnology.net;Initial Catalog=par;User Id=par_www;Password=wrU-tAnudrEs",
+      "Description": "",
+      "Scope": {
+        "Environment": [
+          "Environments-7"
+        ],
+        "Role": [
+          "appsb"
+        ]
+      },
+      "IsEditable": true,
+      "Prompt": null,
+      "Type": "String",
+      "IsSensitive": false
+    },
+    {
+      "Id": "7be13794-1344-85e5-af76-7356696135a7",
+      "Name": "par.fluidtechnology.com",
+      "Value": "Data Source=SEEMM1DB260.world.fluidtechnology.net;Initial Catalog=par;User Id=par_www;Password=wrU-tAnudrEs",
+      "Description": "",
+      "Scope": {
+        "Environment": [
+          "Environments-8"
+        ],
+        "Role": [
+          "appsb"
+        ]
+      },
+      "IsEditable": true,
+      "Prompt": null,
+      "Type": "String",
+      "IsSensitive": false
+    },
+    {
+      "Id": "c8cd86ea-6391-b3ea-2502-2720ae143191",
+      "Name": "PAR_DB",
+      "Value": "Data Source=SEEMM1DB260.world.fluidtechnology.net;Initial Catalog=par;User Id=par_www;Password=wrU-tAnudrEs",
+      "Description": "",
+      "Scope": {
+        "Environment": [
+          "Environments-8"
+        ],
+        "Role": [
+          "appsb"
+        ]
+      },
+      "IsEditable": true,
+      "Prompt": null,
+      "Type": "String",
+      "IsSensitive": false
+    },
+    {
+      "Id": "64b7616e-1eab-168d-6ea4-464404fabb53",
+      "Name": "com.itt.defense.webservices.ADLookup",
+      "Value": "http://servicesb.world.fluidtechnology.net/ad-service/ActiveDirectory/ADlookup.asmx",
+      "Description": "",
+      "Scope": {
+        "Environment": [
+          "Environments-7"
+        ],
+        "Role": [
+          "appsb"
+        ]
+      },
+      "IsEditable": true,
+      "Prompt": null,
+      "Type": "String",
+      "IsSensitive": false
+    },
+    {
+      "Id": "b23849dd-caea-7a5d-c9ce-b580fc9d60bb",
+      "Name": "com.itt.defense.webservices.ADLookup",
+      "Value": "http://servicesb-uat.world.fluidtechnology.net/ad-service/ActiveDirectory/ADlookup.asmx",
+      "Description": "",
+      "Scope": {
+        "Environment": [
+          "Environments-8"
+        ],
+        "Role": [
+          "appsb"
+        ]
+      },
+      "IsEditable": true,
+      "Prompt": null,
+      "Type": "String",
+      "IsSensitive": false
+    },
+    {
+      "Id": "c991a043-70c6-8ba0-2408-b698cc767e7b",
+      "Name": "com.itt.defense.webservices.ADLookup",
+      "Value": "http://servicesb-test.world.fluidtechnology.net/ad-service/ActiveDirectory/ADlookup.asmx",
+      "Description": "",
+      "Scope": {
+        "Environment": [
+          "Environments-6"
+        ],
+        "Role": [
+          "appsb"
+        ]
+      },
+      "IsEditable": true,
+      "Prompt": null,
+      "Type": "String",
+      "IsSensitive": false
+    },
+    {
+      "Id": "f6ce748b-3778-1e70-edee-3ac452335431",
+      "Name": "com.itt.defense.webservices.ADLookup",
+      "Value": "http://servicesb-dev.world.fluidtechnology.net/ad-service/ActiveDirectory/ADlookup.asmx",
+      "Description": null,
+      "Scope": {
+        "Environment": [
+          "Environments-41"
+        ],
+        "Role": [
+          "appsb"
+        ]
+      },
+      "IsEditable": true,
+      "Prompt": null,
+      "Type": "String",
+      "IsSensitive": false
+    },
+    {
+      "Id": "f6ab1502-462e-89ef-f6ba-0916e88bb23c",
+      "Name": "ParWebsiteBaseUrl",
+      "Value": "https://par.fluidtechnology.net/",
+      "Description": "",
+      "Scope": {
+        "Environment": [
+          "Environments-7"
+        ],
+        "Role": [
+          "appsb"
+        ]
+      },
+      "IsEditable": true,
+      "Prompt": null,
+      "Type": "String",
+      "IsSensitive": false
+    },
+    {
+      "Id": "6f63b9f5-5ffa-8c62-3a11-89346e3156f9",
+      "Name": "ParWebsiteBaseUrl",
+      "Value": "https://par-uat.fluidtechnology.net/",
+      "Description": "",
+      "Scope": {
+        "Environment": [
+          "Environments-8"
+        ],
+        "Role": [
+          "appsb"
+        ]
+      },
+      "IsEditable": true,
+      "Prompt": null,
+      "Type": "String",
+      "IsSensitive": false
+    },
+    {
+      "Id": "33937add-e94c-a3a5-aad1-fe2de3009fe5",
+      "Name": "ParWebsiteBaseUrl",
+      "Value": "https://par-test.fluidtechnology.net/",
+      "Description": "",
+      "Scope": {
+        "Environment": [
+          "Environments-6"
+        ],
+        "Role": [
+          "appsb"
+        ]
+      },
+      "IsEditable": true,
+      "Prompt": null,
+      "Type": "String",
+      "IsSensitive": false
+    },
+    {
+      "Id": "71a3c651-2be0-1c26-fae9-f71491762811",
+      "Name": "ParWebsiteBaseUrl",
+      "Value": "https://par-dev.fluidtechnology.net/",
+      "Description": null,
+      "Scope": {
+        "Environment": [
+          "Environments-41"
+        ],
+        "Role": [
+          "appsb"
+        ]
+      },
+      "IsEditable": true,
+      "Prompt": null,
+      "Type": "String",
+      "IsSensitive": false
+    },
+    {
+      "Id": "33d2fb77-07c5-768e-885c-9c2157126ca9",
+      "Name": "CertThumbPrint",
+      "Value": "dacaf716a41dafc4e7246efd90c85dede5b7841c",
+      "Description": "",
+      "Scope": {
+        "Environment": [
+          "Environments-6"
+        ],
+        "Role": [
+          "appsb"
+        ]
+      },
+      "IsEditable": true,
+      "Prompt": null,
+      "Type": "String",
+      "IsSensitive": false
+    },
+    {
+      "Id": "b7897c56-ff26-919e-3e05-36565a89b310",
+      "Name": "CertThumbPrint",
+      "Value": "191773952330677a569a067a94627f09fae7c945",
+      "Description": "",
+      "Scope": {
+        "Environment": [
+          "Environments-8"
+        ],
+        "Role": [
+          "appsb"
+        ]
+      },
+      "IsEditable": true,
+      "Prompt": null,
+      "Type": "String",
+      "IsSensitive": false
+    },
+    {
+      "Id": "052b9764-fc28-7dd9-9317-28945892ead5",
+      "Name": "CertThumbPrint",
+      "Value": "5076f513daaef3d4c6bb46eb401be4dbe66719f8",
+      "Description": "",
+      "Scope": {
+        "Environment": [
+          "Environments-7"
+        ],
+        "Role": [
+          "appsb"
+        ]
+      },
+      "IsEditable": true,
+      "Prompt": null,
+      "Type": "String",
+      "IsSensitive": false
+    },
+    {
+      "Id": "1883189c-c001-760f-fd6c-db34f7b28524",
+      "Name": "localhost",
+      "Value": "Data Source=SEEMM1DB258.world.fluidtechnology.net;Initial Catalog=par;User Id=par_www;Password=wrU-tAnudrEs",
+      "Description": null,
+      "Scope": {
+        "Environment": [
+          "Environments-41"
+        ],
+        "Role": [
+          "appsb"
+        ]
+      },
+      "IsEditable": true,
+      "Prompt": null,
+      "Type": "String",
+      "IsSensitive": false
+    },
+    {
+      "Id": "8234a52f-6906-2d92-b330-f1c2dad5cd62",
+      "Name": "localhost",
+      "Value": "Data Source=SEEMM1DB259.world.fluidtechnology.net;Initial Catalog=par;User Id=par_www;Password=wrU-tAnudrEs",
+      "Description": "",
+      "Scope": {
+        "Environment": [
+          "Environments-6"
+        ],
+        "Role": [
+          "appsb"
+        ]
+      },
+      "IsEditable": true,
+      "Prompt": null,
+      "Type": "String",
+      "IsSensitive": false
+    },
+    {
+      "Id": "508d6415-5552-b4bd-ddef-0a6a84973e43",
+      "Name": "PAR_DB",
+      "Value": "Data Source=SEEMM1DB259.world.fluidtechnology.net;Initial Catalog=par;User Id=par_www;Password=wrU-tAnudrEs",
+      "Description": "",
+      "Scope": {
+        "Environment": [
+          "Environments-6"
+        ],
+        "Role": [
+          "appsb"
+        ]
+      },
+      "IsEditable": true,
+      "Prompt": null,
+      "Type": "String",
+      "IsSensitive": false
+    },
+    {
+      "Id": "b8aa23f5-f3a1-4586-ad9d-acb64ee9e66a",
+      "Name": "PAR_DB",
+      "Value": "Data Source=SEEMM1DB258.world.fluidtechnology.net;Initial Catalog=par;User Id=par_www;Password=wrU-tAnudrEs",
+      "Description": null,
+      "Scope": {
+        "Environment": [
+          "Environments-41"
+        ],
+        "Role": [
+          "appsb"
+        ]
+      },
+      "IsEditable": true,
+      "Prompt": null,
+      "Type": "String",
+      "IsSensitive": false
+    },
+    {
+      "Id": "49ea042c-2f45-b6b2-eaf6-59259279298b",
+      "Name": "par.fluidtechnology.com",
+      "Value": "Data Source=SEEMM1DB258.world.fluidtechnology.net;Initial Catalog=par;User Id=par_www;Password=wrU-tAnudrEs",
+      "Description": null,
+      "Scope": {
+        "Environment": [
+          "Environments-41"
+        ],
+        "Role": [
+          "appsb"
+        ]
+      },
+      "IsEditable": true,
+      "Prompt": null,
+      "Type": "String",
+      "IsSensitive": false
+    },
+    {
+      "Id": "d32a6cfc-d11b-4c89-dd81-0c4b102358b2",
+      "Name": "par.fluidtechnology.com",
+      "Value": "Data Source=SEEMM1DB259.world.fluidtechnology.net;Initial Catalog=par;User Id=par_www;Password=wrU-tAnudrEs",
+      "Description": "",
+      "Scope": {
+        "Environment": [
+          "Environments-6"
+        ],
+        "Role": [
+          "appsb"
+        ]
+      },
+      "IsEditable": true,
+      "Prompt": null,
+      "Type": "String",
+      "IsSensitive": false
+    },
+    {
+      "Id": "b17d8069-5b88-c97f-bc59-686a4a298ebb",
+      "Name": "CertThumbPrint",
+      "Value": "1924fc4e4ef1828c05c82d9ceeb32903f2cb5348",
+      "Description": null,
+      "Scope": {
+        "Environment": [
+          "Environments-41"
+        ],
+        "Role": [
+          "appsb"
+        ]
+      },
+      "IsEditable": true,
+      "Prompt": null,
+      "Type": "String",
+      "IsSensitive": false
+    }
+  ],
+  "ScopeValues": {
+    "Environments": [
+      {
+        "Id": "Environments-41",
+        "Name": "DEV"
+      },
+      {
+        "Id": "Environments-6",
+        "Name": "TEST"
+      },
+      {
+        "Id": "Environments-8",
+        "Name": "UAT"
+      },
+      {
+        "Id": "Environments-7",
+        "Name": "PROD"
+      },
+      {
+        "Id": "Environments-61",
+        "Name": "Xylect_PG_1"
+      },
+      {
+        "Id": "Environments-62",
+        "Name": "Xylect_AT"
+      },
+      {
+        "Id": "Environments-63",
+        "Name": "Xylect_PROD1"
+      },
+      {
+        "Id": "Environments-64",
+        "Name": "Xylect_PROD2"
+      },
+      {
+        "Id": "Environments-83",
+        "Name": "Xylect_PG_AWS_1"
+      },
+      {
+        "Id": "Environments-84",
+        "Name": "Xylect_PG_FLYGT_1"
+      },
+      {
+        "Id": "Environments-85",
+        "Name": "Xylect_CI"
+      },
+      {
+        "Id": "Environments-101",
+        "Name": "Xylect_Desktop_TEST"
+      },
+      {
+        "Id": "Environments-121",
+        "Name": "Xylect_Desktop_PROD"
+      },
+      {
+        "Id": "Environments-161",
+        "Name": "Xylect_PG_2"
+      },
+      {
+        "Id": "Environments-162",
+        "Name": "Xylect_PG_AWS_2"
+      },
+      {
+        "Id": "Environments-163",
+        "Name": "Xylect_PG_FLYGT_2"
+      },
+      {
+        "Id": "Environments-181",
+        "Name": "BPCS_DEV"
+      },
+      {
+        "Id": "Environments-182",
+        "Name": "BPCS_TEST"
+      },
+      {
+        "Id": "Environments-183",
+        "Name": "BPCS_PROD"
+      },
+      {
+        "Id": "Environments-201",
+        "Name": "XOL-CI-ENV"
+      },
+      {
+        "Id": "Environments-227",
+        "Name": "Xylect_Desktop_CI"
+      },
+      {
+        "Id": "Environments-262",
+        "Name": "DAT_PG_1"
+      },
+      {
+        "Id": "Environments-263",
+        "Name": "DAT_PG_2"
+      },
+      {
+        "Id": "Environments-264",
+        "Name": "DAT_AWS_1"
+      },
+      {
+        "Id": "Environments-265",
+        "Name": "DAT_AWS_2"
+      },
+      {
+        "Id": "Environments-266",
+        "Name": "DAT_FLYGT_1"
+      },
+      {
+        "Id": "Environments-267",
+        "Name": "DAT_FLYGT_2"
+      },
+      {
+        "Id": "Environments-268",
+        "Name": "DAT_AT"
+      },
+      {
+        "Id": "Environments-269",
+        "Name": "DAT_PROD_1"
+      },
+      {
+        "Id": "Environments-270",
+        "Name": "DAT_PROD_2"
+      },
+      {
+        "Id": "Environments-271",
+        "Name": "DAT_DESKTOP_TEST"
+      },
+      {
+        "Id": "Environments-272",
+        "Name": "DAT_DESKTOP_PROD"
+      },
+      {
+        "Id": "Environments-273",
+        "Name": "DAT_CI"
+      },
+      {
+        "Id": "Environments-301",
+        "Name": "DEV_XOL_2019"
+      },
+      {
+        "Id": "Environments-302",
+        "Name": "TEST_XOL_2019"
+      },
+      {
+        "Id": "Environments-303",
+        "Name": "UAT_XOL_2019"
+      },
+      {
+        "Id": "Environments-341",
+        "Name": "TEST_RND"
+      },
+      {
+        "Id": "Environments-304",
+        "Name": "PROD_XOL_2019"
+      },
+      {
+        "Id": "Environments-342",
+        "Name": "UAT_RND"
+      },
+      {
+        "Id": "Environments-321",
+        "Name": "PROD-EA-France"
+      },
+      {
+        "Id": "Environments-343",
+        "Name": "PROD_RND"
+      },
+      {
+        "Id": "Environments-362",
+        "Name": "DEV_CHINA_8PUS"
+      },
+      {
+        "Id": "Environments-323",
+        "Name": "TEST-EA-France"
+      },
+      {
+        "Id": "Environments-324",
+        "Name": "UAT-EA-France"
+      },
+      {
+        "Id": "Environments-363",
+        "Name": "TEST_CHINA_8PUS"
+      },
+      {
+        "Id": "Environments-325",
+        "Name": "Citrix_TEST"
+      },
+      {
+        "Id": "Environments-364",
+        "Name": "PROD_CHINA_8PUS"
+      },
+      {
+        "Id": "Environments-326",
+        "Name": "Citrix_UAT"
+      },
+      {
+        "Id": "Environments-381",
+        "Name": "SOLVER"
+      },
+      {
+        "Id": "Environments-401",
+        "Name": "seemm1web409_POC"
+      },
+      {
+        "Id": "Environments-327",
+        "Name": "Citrix_PROD"
+      }
+    ],
+    "Machines": [
+      {
+        "Id": "Machines-82",
+        "Name": "Apps-DEV/Services-DEV"
+      },
+      {
+        "Id": "Machines-85",
+        "Name": "Apps-PROD-1/Services-PROD-1"
+      },
+      {
+        "Id": "Machines-86",
+        "Name": "Apps-PROD-2/Services-PROD-2"
+      },
+      {
+        "Id": "Machines-83",
+        "Name": "Apps-TEST/Services-TEST"
+      },
+      {
+        "Id": "Machines-84",
+        "Name": "Apps-UAT/Services-UAT"
+      },
+      {
+        "Id": "Machines-321",
+        "Name": "Apps-UAT1/Services-UAT1"
+      },
+      {
+        "Id": "Machines-363",
+        "Name": "BPCS_DEV"
+      },
+      {
+        "Id": "Machines-362",
+        "Name": "BPCS_PROD"
+      },
+      {
+        "Id": "Machines-365",
+        "Name": "BPCS_TEST"
+      },
+      {
+        "Id": "Machines-43",
+        "Name": "EPI Integration"
+      },
+      {
+        "Id": "Machines-21",
+        "Name": "EPiServer CI CMS"
+      },
+      {
+        "Id": "Machines-22",
+        "Name": "EPiServer CI Commerce"
+      },
+      {
+        "Id": "Machines-41",
+        "Name": "Forms - PROD"
+      },
+      {
+        "Id": "Machines-23",
+        "Name": "Forms - Stage"
+      },
+      {
+        "Id": "Machines-781",
+        "Name": "SEEMM1APP1366"
+      },
+      {
+        "Id": "Machines-882",
+        "Name": "SEEMM1APP1459"
+      },
+      {
+        "Id": "Machines-881",
+        "Name": "SEEMM1APP1460"
+      },
+      {
+        "Id": "Machines-744",
+        "Name": "seemm1app340_POC"
+      },
+      {
+        "Id": "Machines-701",
+        "Name": "seemm1app399-CAPT-CHINA"
+      },
+      {
+        "Id": "Machines-605",
+        "Name": "SEEMM1APP399-DEV"
+      },
+      {
+        "Id": "Machines-63",
+        "Name": "SEEMM1APP399-PROD"
+      },
+      {
+        "Id": "Machines-61",
+        "Name": "SEEMM1APP399-TEST"
+      },
+      {
+        "Id": "Machines-641",
+        "Name": "SEEMM1WEB088.rcw.itt.com"
+      },
+      {
+        "Id": "Machines-843",
+        "Name": "Seemm1web091.emeadmz.net"
+      },
+      {
+        "Id": "Machines-844",
+        "Name": "Seemm1web092.emeadmz.net"
+      },
+      {
+        "Id": "Machines-841",
+        "Name": "Seemm1web094.emeadmz.net"
+      },
+      {
+        "Id": "Machines-4",
+        "Name": "SEEMM1WEB109"
+      },
+      {
+        "Id": "Machines-722",
+        "Name": "seemm1web146.rcw.itt.com"
+      },
+      {
+        "Id": "Machines-643",
+        "Name": "SEEMM1WEB179-BatchServer"
+      },
+      {
+        "Id": "Machines-642",
+        "Name": "seemm1web187.rcw.itt.com"
+      },
+      {
+        "Id": "Machines-383",
+        "Name": "SEEMM1WEB240.emeadmz.net"
+      },
+      {
+        "Id": "Machines-384",
+        "Name": "SEEMM1WEB243.emeadmz.net"
+      },
+      {
+        "Id": "Machines-746",
+        "Name": "seemm1web251_POC"
+      },
+      {
+        "Id": "Machines-842",
+        "Name": "seemm1web252.emeadmz.net"
+      },
+      {
+        "Id": "Machines-861",
+        "Name": "seemm1web252dev.emeadmz.net"
+      },
+      {
+        "Id": "Machines-361",
+        "Name": "SEEMM1WEB284"
+      },
+      {
+        "Id": "Machines-381",
+        "Name": "SEEMM1WEB286.emeadmz.net"
+      },
+      {
+        "Id": "Machines-382",
+        "Name": "SEEMM1WEB287.emeadmz.net"
+      },
+      {
+        "Id": "Machines-581",
+        "Name": "seemm1web288.emeadmz.net"
+      },
+      {
+        "Id": "Machines-582",
+        "Name": "seemm1web289.emeadmz.net"
+      },
+      {
+        "Id": "Machines-443",
+        "Name": "SEEMM1WEB290.emeadmz.net"
+      },
+      {
+        "Id": "Machines-461",
+        "Name": "SEEMM1WEB291.emeadmz.net"
+      },
+      {
+        "Id": "Machines-462",
+        "Name": "SEEMM1WEB301.emeadmz.net"
+      },
+      {
+        "Id": "Machines-464",
+        "Name": "SEEMM1WEB302.emeadmz.net"
+      },
+      {
+        "Id": "Machines-466",
+        "Name": "SEEMM1WEB303.emeadmz.net"
+      },
+      {
+        "Id": "Machines-463",
+        "Name": "SEEMM1WEB311.emeadmz.net"
+      },
+      {
+        "Id": "Machines-562",
+        "Name": "SEEMM1WEB335.emeadmz.net"
+      },
+      {
+        "Id": "Machines-534",
+        "Name": "SEEMM1WEB337.emeadmz.net"
+      },
+      {
+        "Id": "Machines-535",
+        "Name": "SEEMM1WEB338.emeadmz.net"
+      },
+      {
+        "Id": "Machines-554",
+        "Name": "SEEMM1WEB339.emeadmz.net"
+      },
+      {
+        "Id": "Machines-533",
+        "Name": "SEEMM1WEB340.emeadmz.net"
+      },
+      {
+        "Id": "Machines-536",
+        "Name": "SEEMM1WEB352.emeadmz.net"
+      },
+      {
+        "Id": "Machines-537",
+        "Name": "SEEMM1WEB353.emeadmz.net"
+      },
+      {
+        "Id": "Machines-555",
+        "Name": "SEEMM1WEB355.emeadmz.net"
+      },
+      {
+        "Id": "Machines-556",
+        "Name": "SEEMM1WEB356.emeadmz.net"
+      },
+      {
+        "Id": "Machines-557",
+        "Name": "SEEMM1WEB360.emeadmz.net"
+      },
+      {
+        "Id": "Machines-603",
+        "Name": "SEEMM1WEB376.emeadmz.net"
+      },
+      {
+        "Id": "Machines-604",
+        "Name": "SEEMM1WEB377.emeadmz.net"
+      },
+      {
+        "Id": "Machines-601",
+        "Name": "SEEMM1WEB378.emeadmz.net"
+      },
+      {
+        "Id": "Machines-602",
+        "Name": "SEEMM1WEB379.emeadmz.net"
+      },
+      {
+        "Id": "Machines-587",
+        "Name": "seemm1web382.emeadmz.net"
+      },
+      {
+        "Id": "Machines-761",
+        "Name": "SEEMM1WEB383"
+      },
+      {
+        "Id": "Machines-762",
+        "Name": "SEEMM1WEB384"
+      },
+      {
+        "Id": "Machines-763",
+        "Name": "SEEMM1WEB385"
+      },
+      {
+        "Id": "Machines-621",
+        "Name": "SEEMM1WEB394"
+      },
+      {
+        "Id": "Machines-622",
+        "Name": "SEEMM1WEB395"
+      },
+      {
+        "Id": "Machines-623",
+        "Name": "SEEMM1WEB396"
+      },
+      {
+        "Id": "Machines-764",
+        "Name": "SEEMM1WEB397.emeadmz.net"
+      },
+      {
+        "Id": "Machines-765",
+        "Name": "SEEMM1WEB398.emeadmz.net"
+      },
+      {
+        "Id": "Machines-766",
+        "Name": "SEEMM1WEB399.emeadmz.net"
+      },
+      {
+        "Id": "Machines-801",
+        "Name": "SEEMM1WEB401.emeadmz.net"
+      },
+      {
+        "Id": "Machines-741",
+        "Name": "SEEMM1WEB402.emeadmz.net"
+      },
+      {
+        "Id": "Machines-742",
+        "Name": "SEEMM1WEB403.emeadmz.net"
+      },
+      {
+        "Id": "Machines-743",
+        "Name": "SEEMM1WEB404.emeadmz.net"
+      },
+      {
+        "Id": "Machines-662",
+        "Name": "SEEMM1WEB405.emeadmz.net"
+      },
+      {
+        "Id": "Machines-665",
+        "Name": "SEEMM1WEB406.emeadmz.net"
+      },
+      {
+        "Id": "Machines-666",
+        "Name": "SEEMM1WEB407.emeadmz.net"
+      },
+      {
+        "Id": "Machines-683",
+        "Name": "SEEMM1WEB408"
+      },
+      {
+        "Id": "Machines-682",
+        "Name": "SEEMM1WEB409"
+      },
+      {
+        "Id": "Machines-821",
+        "Name": "seemm1web409_POC"
+      },
+      {
+        "Id": "Machines-681",
+        "Name": "SEEMM1WEB410"
+      },
+      {
+        "Id": "Machines-684",
+        "Name": "SEEMM1WEB411"
+      },
+      {
+        "Id": "Machines-685",
+        "Name": "SEEMM1WEB412"
+      },
+      {
+        "Id": "Machines-686",
+        "Name": "SEEMM1WEB413"
+      },
+      {
+        "Id": "Machines-721",
+        "Name": "SEEMM1WEB435"
+      },
+      {
+        "Id": "Machines-583",
+        "Name": "SEEMM1XA0187"
+      },
+      {
+        "Id": "Machines-584",
+        "Name": "SEEMM1XA0188"
+      },
+      {
+        "Id": "Machines-585",
+        "Name": "SEEMM1XA0189"
+      },
+      {
+        "Id": "Machines-472",
+        "Name": "TreatmentSelect_PROD_DT"
+      },
+      {
+        "Id": "Machines-470",
+        "Name": "TreatmentSelect_Sandbox_DT"
+      },
+      {
+        "Id": "Machines-471",
+        "Name": "TreatmentSelect_UAT_DT"
+      },
+      {
+        "Id": "Machines-141",
+        "Name": "xapps-dev"
+      },
+      {
+        "Id": "Machines-145",
+        "Name": "xapps-prod-1"
+      },
+      {
+        "Id": "Machines-144",
+        "Name": "xapps-prod-2"
+      },
+      {
+        "Id": "Machines-130",
+        "Name": "xapps-test"
+      },
+      {
+        "Id": "Machines-143",
+        "Name": "xapps-uat_1"
+      },
+      {
+        "Id": "Machines-282",
+        "Name": "xapps-uat_2"
+      },
+      {
+        "Id": "Machines-385",
+        "Name": "XOL-CI"
+      },
+      {
+        "Id": "Machines-532",
+        "Name": "XOL-Dev-2019-WEB341"
+      },
+      {
+        "Id": "Machines-541",
+        "Name": "XOL-UAT-APP-2019"
+      },
+      {
+        "Id": "Machines-121",
+        "Name": "XOLC-DEV"
+      },
+      {
+        "Id": "Machines-126",
+        "Name": "XOLC-PROD-APP1"
+      },
+      {
+        "Id": "Machines-127",
+        "Name": "XOLC-PROD-APP2"
+      },
+      {
+        "Id": "Machines-128",
+        "Name": "XOLC-PROD-APP3"
+      },
+      {
+        "Id": "Machines-129",
+        "Name": "XOLC-PROD-APP4"
+      },
+      {
+        "Id": "Machines-207",
+        "Name": "XOLC-PROD-DOCGEN"
+      },
+      {
+        "Id": "Machines-166",
+        "Name": "XOLC-PROD-WEB1"
+      },
+      {
+        "Id": "Machines-169",
+        "Name": "XOLC-PROD-WEB2"
+      },
+      {
+        "Id": "Machines-165",
+        "Name": "XOLC-STAGE-WEB1"
+      },
+      {
+        "Id": "Machines-168",
+        "Name": "XOLC-STAGE-WEB2"
+      },
+      {
+        "Id": "Machines-101",
+        "Name": "XOLC-TEST-APP1"
+      },
+      {
+        "Id": "Machines-102",
+        "Name": "XOLC-TEST-APP2"
+      },
+      {
+        "Id": "Machines-208",
+        "Name": "XOLC-TEST-DOCGEN"
+      },
+      {
+        "Id": "Machines-161",
+        "Name": "XOLC-TEST-WEB"
+      },
+      {
+        "Id": "Machines-124",
+        "Name": "XOLC-UAT-APP1"
+      },
+      {
+        "Id": "Machines-125",
+        "Name": "XOLC-UAT-APP2"
+      },
+      {
+        "Id": "Machines-122",
+        "Name": "XOLC-UAT-APP3"
+      },
+      {
+        "Id": "Machines-123",
+        "Name": "XOLC-UAT-APP4"
+      },
+      {
+        "Id": "Machines-206",
+        "Name": "XOLC-UAT-DOCGEN"
+      },
+      {
+        "Id": "Machines-499",
+        "Name": "Xylect_AT_318"
+      },
+      {
+        "Id": "Machines-484",
+        "Name": "Xylect_AT_319"
+      },
+      {
+        "Id": "Machines-497",
+        "Name": "Xylect_Desktop_Prod_330"
+      },
+      {
+        "Id": "Machines-498",
+        "Name": "Xylect_Desktop_Prod_331"
+      },
+      {
+        "Id": "Machines-495",
+        "Name": "Xylect_Desktop_Test_333"
+      },
+      {
+        "Id": "Machines-496",
+        "Name": "Xylect_Desktop_Test_334"
+      },
+      {
+        "Id": "Machines-481",
+        "Name": "Xylect_PG_317"
+      },
+      {
+        "Id": "Machines-482",
+        "Name": "Xylect_PG_332"
+      },
+      {
+        "Id": "Machines-485",
+        "Name": "Xylect_Prod1_320"
+      },
+      {
+        "Id": "Machines-486",
+        "Name": "Xylect_Prod1_321"
+      },
+      {
+        "Id": "Machines-487",
+        "Name": "Xylect_Prod1_322"
+      },
+      {
+        "Id": "Machines-489",
+        "Name": "Xylect_Prod1_323"
+      },
+      {
+        "Id": "Machines-488",
+        "Name": "Xylect_Prod1_324"
+      },
+      {
+        "Id": "Machines-490",
+        "Name": "Xylect_Prod1_325"
+      },
+      {
+        "Id": "Machines-491",
+        "Name": "Xylect_Prod1_326"
+      },
+      {
+        "Id": "Machines-492",
+        "Name": "Xylect_Prod1_327"
+      },
+      {
+        "Id": "Machines-493",
+        "Name": "Xylect_Prod1_328"
+      },
+      {
+        "Id": "Machines-494",
+        "Name": "Xylect_Prod1_329"
+      },
+      {
+        "Id": "Machines-521",
+        "Name": "Xylect_Prod2_358"
+      },
+      {
+        "Id": "Machines-522",
+        "Name": "Xylect_Prod2_359"
+      },
+      {
+        "Id": "Machines-523",
+        "Name": "Xylect_Prod2_361"
+      },
+      {
+        "Id": "Machines-524",
+        "Name": "Xylect_Prod2_362"
+      },
+      {
+        "Id": "Machines-525",
+        "Name": "Xylect_Prod2_364"
+      },
+      {
+        "Id": "Machines-526",
+        "Name": "Xylect_Prod2_365"
+      },
+      {
+        "Id": "Machines-527",
+        "Name": "Xylect_Prod2_366"
+      },
+      {
+        "Id": "Machines-528",
+        "Name": "Xylect_Prod2_367"
+      },
+      {
+        "Id": "Machines-529",
+        "Name": "Xylect_Prod2_368"
+      },
+      {
+        "Id": "Machines-530",
+        "Name": "Xylect_Prod2_369"
+      }
+    ],
+    "Actions": [
+      {
+        "Id": "2add9e48-6afb-426d-a143-b1587d29a729",
+        "Name": "1. DeployPAR"
+      }
+    ],
+    "Roles": [
+      {
+        "Id": "Apps/Services",
+        "Name": "Apps/Services"
+      },
+      {
+        "Id": "appsa",
+        "Name": "appsa"
+      },
+      {
+        "Id": "appsa.dev",
+        "Name": "appsa.dev"
+      },
+      {
+        "Id": "appsa.prod",
+        "Name": "appsa.prod"
+      },
+      {
+        "Id": "appsa.test",
+        "Name": "appsa.test"
+      },
+      {
+        "Id": "appsa.uat",
+        "Name": "appsa.uat"
+      },
+      {
+        "Id": "appsb",
+        "Name": "appsb"
+      },
+      {
+        "Id": "appsb.dev",
+        "Name": "appsb.dev"
+      },
+      {
+        "Id": "appsb.prod",
+        "Name": "appsb.prod"
+      },
+      {
+        "Id": "appsb.test",
+        "Name": "appsb.test"
+      },
+      {
+        "Id": "appsb.uat",
+        "Name": "appsb.uat"
+      },
+      {
+        "Id": "appsc",
+        "Name": "appsc"
+      },
+      {
+        "Id": "appsc.dev",
+        "Name": "appsc.dev"
+      },
+      {
+        "Id": "appsc.prod",
+        "Name": "appsc.prod"
+      },
+      {
+        "Id": "appsc.test",
+        "Name": "appsc.test"
+      },
+      {
+        "Id": "appsc.uat",
+        "Name": "appsc.uat"
+      },
+      {
+        "Id": "Batch",
+        "Name": "Batch"
+      },
+      {
+        "Id": "BPCS",
+        "Name": "BPCS"
+      },
+      {
+        "Id": "CitrixLocal",
+        "Name": "CitrixLocal"
+      },
+      {
+        "Id": "clickonce-ci-server",
+        "Name": "clickonce-ci-server"
+      },
+      {
+        "Id": "clickonce-dev-china-server",
+        "Name": "clickonce-dev-china-server"
+      },
+      {
+        "Id": "clickonce-prod-china-server",
+        "Name": "clickonce-prod-china-server"
+      },
+      {
+        "Id": "clickonce-prod-server",
+        "Name": "clickonce-prod-server"
+      },
+      {
+        "Id": "clickonce-test-china-server",
+        "Name": "clickonce-test-china-server"
+      },
+      {
+        "Id": "clickonce-test-server",
+        "Name": "clickonce-test-server"
+      },
+      {
+        "Id": "control-d",
+        "Name": "control-d"
+      },
+      {
+        "Id": "database",
+        "Name": "database"
+      },
+      {
+        "Id": "database-2019",
+        "Name": "database-2019"
+      },
+      {
+        "Id": "docgen",
+        "Name": "docgen"
+      },
+      {
+        "Id": "docgen-2019",
+        "Name": "docgen-2019"
+      },
+      {
+        "Id": "e-access",
+        "Name": "e-access"
+      },
+      {
+        "Id": "E-Purchase",
+        "Name": "E-Purchase"
+      },
+      {
+        "Id": "EPiServer CMS",
+        "Name": "EPiServer CMS"
+      },
+      {
+        "Id": "EPiServer Commerce",
+        "Name": "EPiServer Commerce"
+      },
+      {
+        "Id": "EPiServer VRT",
+        "Name": "EPiServer VRT"
+      },
+      {
+        "Id": "extranet",
+        "Name": "extranet"
+      },
+      {
+        "Id": "fsg_flygt",
+        "Name": "fsg_flygt"
+      },
+      {
+        "Id": "fsg_grindex",
+        "Name": "fsg_grindex"
+      },
+      {
+        "Id": "fusion-apps",
+        "Name": "fusion-apps"
+      },
+      {
+        "Id": "guru-runtime",
+        "Name": "guru-runtime"
+      },
+      {
+        "Id": "guru-runtime-2019",
+        "Name": "guru-runtime-2019"
+      },
+      {
+        "Id": "pecu_data_manager",
+        "Name": "pecu_data_manager"
+      },
+      {
+        "Id": "RCW",
+        "Name": "RCW"
+      },
+      {
+        "Id": "RND",
+        "Name": "RND"
+      },
+      {
+        "Id": "selector-v3-run-sql",
+        "Name": "selector-v3-run-sql"
+      },
+      {
+        "Id": "selector-v3-run-sql-2019",
+        "Name": "selector-v3-run-sql-2019"
+      },
+      {
+        "Id": "sharepoint-server",
+        "Name": "sharepoint-server"
+      },
+      {
+        "Id": "solver_poc",
+        "Name": "solver_poc"
+      },
+      {
+        "Id": "Summit",
+        "Name": "Summit"
+      },
+      {
+        "Id": "supply_2012",
+        "Name": "supply_2012"
+      },
+      {
+        "Id": "tpi_doc_uploader",
+        "Name": "tpi_doc_uploader"
+      },
+      {
+        "Id": "TreatmentSelect",
+        "Name": "TreatmentSelect"
+      },
+      {
+        "Id": "web",
+        "Name": "web"
+      },
+      {
+        "Id": "xapps",
+        "Name": "xapps"
+      },
+      {
+        "Id": "xappsa",
+        "Name": "xappsa"
+      },
+      {
+        "Id": "xappsa.dev",
+        "Name": "xappsa.dev"
+      },
+      {
+        "Id": "xappsa.prod",
+        "Name": "xappsa.prod"
+      },
+      {
+        "Id": "xappsa.test",
+        "Name": "xappsa.test"
+      },
+      {
+        "Id": "xappsa.uat",
+        "Name": "xappsa.uat"
+      },
+      {
+        "Id": "xappsb",
+        "Name": "xappsb"
+      },
+      {
+        "Id": "xappsb.prod",
+        "Name": "xappsb.prod"
+      },
+      {
+        "Id": "xappsb.test",
+        "Name": "xappsb.test"
+      },
+      {
+        "Id": "xappsb.uat",
+        "Name": "xappsb.uat"
+      },
+      {
+        "Id": "xappsc",
+        "Name": "xappsc"
+      },
+      {
+        "Id": "xappsc.prod",
+        "Name": "xappsc.prod"
+      },
+      {
+        "Id": "xappsc.test",
+        "Name": "xappsc.test"
+      },
+      {
+        "Id": "xappsc.uat",
+        "Name": "xappsc.uat"
+      },
+      {
+        "Id": "xol-2019-run-sql",
+        "Name": "xol-2019-run-sql"
+      },
+      {
+        "Id": "xol-apps-2019",
+        "Name": "xol-apps-2019"
+      },
+      {
+        "Id": "xol-ci-role",
+        "Name": "xol-ci-role"
+      },
+      {
+        "Id": "xol-web",
+        "Name": "xol-web"
+      },
+      {
+        "Id": "xol-web-2019",
+        "Name": "xol-web-2019"
+      },
+      {
+        "Id": "xylect-apps-2019",
+        "Name": "xylect-apps-2019"
+      },
+      {
+        "Id": "xylem-selector",
+        "Name": "xylem-selector"
+      },
+      {
+        "Id": "xylem-selector-2019",
+        "Name": "xylem-selector-2019"
+      },
+      {
+        "Id": "xylem-selector-dataload",
+        "Name": "xylem-selector-dataload"
+      },
+      {
+        "Id": "xylem-selector-dataload-2019",
+        "Name": "xylem-selector-dataload-2019"
+      },
+      {
+        "Id": "xylem-selector-run-sql",
+        "Name": "xylem-selector-run-sql"
+      },
+      {
+        "Id": "xylem-selector-run-sql-2019",
+        "Name": "xylem-selector-run-sql-2019"
+      }
+    ],
+    "Channels": [
+      {
+        "Id": "Channels-85",
+        "Name": "Default"
+      }
+    ],
+    "TenantTags": [],
+    "Processes": [
+      {
+        "ProcessType": "Deployment",
+        "Id": "Projects-85",
+        "Name": "Deployment Process"
+      }
+    ]
+  },
+  "SpaceId": "Spaces-1",
+  "Links": {
+    "Self": "/api/Spaces-1/projects/Projects-85/variables"
+  }
+}
